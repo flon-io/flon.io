@@ -1,0 +1,93 @@
+
+@import "compass/reset";
+@import "compass/css3";
+
+$FontAwesomePath: "/fonts" !default;
+//
+@import "font-awesome";
+
+body {
+  font-size: 16px;
+  line-height: 19px;
+  font-family: "Helvetica Neue", Helvetica;
+
+  background: url(/images/roll.jpg) repeat-y;
+  background-position: 821px 0;
+  background-size: 60px auto;
+}
+
+.home {
+  margin-top: 1em;
+  font-size: 120%;
+  opacity: 0.4;
+  position: relative;
+  cursor: pointer;
+  .icon {
+    display: none;
+    position: absolute;
+    left: -1.3em;
+  }
+}
+
+.post-link {
+  font-size: 110%;
+  padding: 0px 5px;
+}
+
+h1 {
+  font-size: 200%;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  .date, .nav {
+    font-size: 50%;
+    opacity: 0.5;
+  }
+}
+h2 {
+  font-size: 150%;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+h3 {
+  font-size: 130%;
+  margin-top: 0.9em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-top: 0.35em;
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  list-style-image: none;
+}
+li {
+}
+
+.content {
+  width: 700px;
+  margin-left: 100px;
+}
+
+.cr {
+  margin-top: 2em;
+  opacity: 0.4;
+  margin-bottom: 1.5em;
+}
+
+.excerpt {
+  margin-top: 0.3em;
+  opacity: 0.4;
+  cursor: pointer;
+  margin-bottom: 1.4em;
+}
+
+img.top-left {
+  float: left;
+  margin-right: 0.7em;
+  margin-bottom: 0.5em;
+  border: 0px;
+}
+
