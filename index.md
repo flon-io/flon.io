@@ -7,6 +7,7 @@ title: home
 
 work in progress.
 
+<!--
 ## posts
 
 {% for post in site.posts %}
@@ -18,4 +19,5 @@ work in progress.
     </div>
   </div>
 {% endfor %}
+-->
 
