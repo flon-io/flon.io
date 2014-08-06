@@ -5,7 +5,11 @@ title: home
 
 # flon.io
 
-work in progress.
+Work in progress.
+
+## links
+
+* [source code](https://github.com/flon-io)
 
 <!--
 ## posts
