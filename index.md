@@ -17,6 +17,8 @@ Work in progress.
 * [shervin](https://github.com/flon-io/shervin) is a web sherving toolkit.
 * [bocla](https://github.com/flon-io/bocla) wraps [libcurl](http://curl.haxx.se/libcurl) in a few functions
 
+There is a mailing list [flon@librelist.com](http://librelist.com/browser/flon).
+
 <!--
 ## posts
 
