@@ -16,6 +16,7 @@ Work in progress.
 * [djan](https://github.com/flon-io/djan) parses JSON and radial.
 * [shervin](https://github.com/flon-io/shervin) is a web sherving toolkit.
 * [bocla](https://github.com/flon-io/bocla) wraps [libcurl](http://curl.haxx.se/libcurl) in a few functions
+* [mnemo](https://github.com/flon-io/mnemo) a port of [rufus-mnemo](https://github.com/jmettraux/rufus-mnemo) to C
 
 There is a mailing list [flon@librelist.com](http://librelist.com/browser/flon).
 
